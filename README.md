@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hello, I'm soyeon ✨ </h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/218a2fcf-053c-443d-8175-5a9a427182d9" width="25%" />
+  <img src="https://github.com/user-attachments/assets/2a9972e8-c045-439d-912e-9e080d05640a" width="25%" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&speed=50&color=F59AC1&center=true&vCenter=true&multiline=true&width=435&height=60&lines=운명사서함+개발중...;LLM+Prompt+실험중...;" />
 
