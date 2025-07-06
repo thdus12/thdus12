@@ -1,10 +1,13 @@
-<h1 align="center">Hello, I'm soyeon  </h1>
+<h1 align="center">✨ Hello, I'm soyeon ✨ </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F59AC1&center=true&vCenter=true&multiline=true&width=435&height=60&lines=운명사서함+개발중...;LLM+Prompt+실험중...;" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/218a2fcf-053c-443d-8175-5a9a427182d9" width="25%" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=100&speed=50&color=F59AC1&center=true&vCenter=true&multiline=true&width=435&height=60&lines=운명사서함+개발중...;LLM+Prompt+실험중...;" />
 
-<br><br><br>
+</div>
+
+<br><br>
 
 ## 🛠️ Skill.
 
@@ -64,12 +67,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> 
 </p>
 
-<br><br><br>
+<br><br>
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thdus12&layout=compact&theme=dracula)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thdus12&show_icons=true&theme=tokyonight)
 
-<br><br><br>
+<br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thdus12&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
