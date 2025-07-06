@@ -71,8 +71,5 @@
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thdus12&layout=compact&theme=dracula)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thdus12&show_icons=true&theme=tokyonight)
-
-<br><br>
-
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=thdus12&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
