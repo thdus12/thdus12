@@ -1,5 +1,3 @@
-<h1 align="center">✨ Hello, I'm soyeon ✨ </h1>
-
 ## 🛠️ Skill.
 
 ### 🧠 Backend
